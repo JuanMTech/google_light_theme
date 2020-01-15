@@ -1,6 +1,10 @@
 # Google Light Theme
 A Home Assistant theme inspired on Google app Light mode.
 
+<p align="center">
+  <img src="https://i.imgur.com/BqqZQLL.png">
+</p>
+
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
 
