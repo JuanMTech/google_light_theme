@@ -9,8 +9,16 @@ A Home Assistant theme inspired on Google app Light mode.
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
+### Screenshots
+
+**1. Desktop**
 <p align="center">
-  <img src="https://i.imgur.com/BqqZQLL.png">
+  <img src="https://i.imgur.com/WU3UF7K.png">
+</p>
+
+**2. Mobile**
+<p align="center">
+  <img src="https://i.imgur.com/jK0UEG9.png">
 </p>
 
 ### Preparation
@@ -37,8 +45,8 @@ frontend:
 3. Paste the content in the `google_light_theme.yaml` file created under your Home Assistant themes folder
 
 ### Enable theme
-1. Open your Home Assistant Profile
-2. Under, Themes, select the new Google Light Theme
+1. Open your Home Assistant **Profile**
+2. Under, **Themes**, select the new Google Light Theme
 
 ### Custom Header settings
 When using the [Custom Header](https://github.com/maykar/custom-header) plugin, add the following to make sure that the header matches the theme.
