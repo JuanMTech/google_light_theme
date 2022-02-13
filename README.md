@@ -1,3 +1,7 @@
+# NEW VERSION OF THIS THEME IS AVAILABLE. IT SUPPORTS BOTH LIGHT AND DARK MODE. YOU CAN CHECK THE THEME [HERE](https://github.com/JuanMTech/google-theme).
+<br />
+<br />
+
 # Google Light Theme
 
 A Home Assistant theme inspired on Google app Light mode.
@@ -50,17 +54,14 @@ frontend:
 1. Open your Home Assistant **Profile**
 2. Under, **Themes**, select the new Google Light Theme
 
-### Custom Header settings
-When using the [Custom Header](https://github.com/maykar/custom-header) plugin, add the following to make sure that the header matches the theme.
+<br />
+<br />
+<br />
 
-```
-custom_header:
-  compact_mode: true
-  background: var(--app-header-background-color)
-  elements_color: var(--app-header-text-color)
-  active_tab_color: var(--state-icon-active-color)
-  tab_indicator_color: var(--state-icon-active-color)
-```
+# Other available themes
+- [**iOS Theme**](https://github.com/JuanMTech/ios-theme) - Based on the system-wide light and dark mode UI
+- [**Google Theme**](https://github.com/JuanMTech/google-theme) - Based on the Android light and dark interface
+- [**AMOLED Blue**](https://github.com/JuanMTech/amoled_blue) - A true black Home Assistant theme for devices with AMOLED displays
 
 
 [buymeacoffee-shield]: https://i.imgur.com/Hzn2rM8.png
